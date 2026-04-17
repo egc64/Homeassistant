@@ -1,0 +1,1 @@
+{\n  "domain": "powerwall",\n  "name": "Powerwall",\n  "documentation": "https://www.home-assistant.io/integrations/powerwall/",\n  "requirements": [\n    "pypowerwall"\n  ],\n  "dependencies": [],\n  "codeowners": [\n    "@egc64"\n  ]\n}
